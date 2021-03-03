@@ -1,4 +1,4 @@
-module gorr
+module github.com/brahma-adshonor/gorr
 
 go 1.14
 
