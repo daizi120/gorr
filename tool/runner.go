@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gorr/util"
+	"github.com/daizi120/gorr/util"
 	"encoding/json"
 	"flag"
 	"fmt"

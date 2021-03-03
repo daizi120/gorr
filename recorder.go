@@ -1,7 +1,7 @@
 package gorr
 
 import (
-	"gorr/util"
+	"github.com/daizi120/gorr/util"
 	"bytes"
 	"encoding/json"
 
